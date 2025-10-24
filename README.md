@@ -1,16 +1,17 @@
 # 🍺 Análisis Estratégico de Calidad Cervecera en EE. UU. (Beer Quality Hotspots)
 
-Este proyecto realiza un análisis de datos profundo para determinar los **factores reales que impulsan la alta calidad** en la industria cervecera artesanal de Estados Unidos. Desmentimos la simple correlación geográfica y exponemos la estrategia de producción que define a los verdaderos líderes.
+Este proyecto realiza un análisis de datos profundo para determinar los **factores reales que impulsan la alta calidad percibida** en la industria cervecera de Estados Unidos.
+Desmentimos la simple correlación geográfica (hipótesis inicial) y exponemos la estrategia de producción que define a los verdaderos líderes dentro del mercado.
 
 
 ## 🎯 Objetivos Principales del Análisis
 
 1.  **Validar la Calidad:** Establecer un filtro de confiabilidad estricto (volumen mínimo de reseñas) para validar los promedios de calidad.
-2.  **Identificar Factores Clave:** Cuantificar la influencia de métricas técnicas (ABV, IBU) y el estilo de cerveza en el rating final.
+2.  **Identificar Factores Clave:** Cuantificar la influencia de la intensidad (ABV, IBU) y el estilo de cerveza en el rating final.
 3.  **Desmentir la Geografía:** Demostrar que la calidad no es uniforme por estado, sino que está **concentrada en micro-regiones (Hotspots)**.
 4.  **Exponer la Estrategia de Élite:** Cuantificar la **Brecha de Calidad** (cuánto supera el Hotspot el promedio nacional de su propio estilo dominante).
 
-## 📝 Conclusiones Ejecutivas (Key Findings)
+## 📝 Conclusiones (Key Findings)
 
 El estudio concluye que el éxito es **estratégico y concentrado**, no geográfico:
 
@@ -25,8 +26,6 @@ El repositorio se organiza de la siguiente manera:
 * 📁 Data - Archivos con los datos base del estudio
 * 📁 Notebooks - 01_Limpieza_y_Filtro.py - 02_Analisis_Estrategico.ipynb -> Código principal del análisis y visualizaciones.
 * 📁 Presentación - Presentación y Gráficos
-
-### 5. Tecnologías y Librerías
 
 ## 💻 Tecnologías y Dependencias
 
