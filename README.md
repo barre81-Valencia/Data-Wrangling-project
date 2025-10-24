@@ -22,23 +22,24 @@ El estudio concluye que el éxito es **estratégico y concentrado**, no geográf
 
 El repositorio se organiza de la siguiente manera:
 
+├── data/ │ ├── raw_data.csv # Archivo de datos original. │ └── clean_data.csv # DataFrame limpiado y listo para el análisis. ├── notebooks/ │ ├── 01_Limpieza_y_Filtro.ipynb # Código para ETL (Extracción, Transformación, Carga). │ └── 02_Analisis_Estrategico.ipynb # Código principal del análisis y visualizaciones. ├── README.md ├── requirements.txt # Dependencias del proyecto. └── presentation/ └── Informe_Final # Presentación final
+
 ### 5. Tecnologías y Librerías
 
-```markdown
 ## 💻 Tecnologías y Dependencias
 
 Este proyecto fue desarrollado en Python y requiere las siguientes librerías:
 
-* **Python 3.x**
-* **pandas:** Para manipulación y limpieza de datos.
-* **numpy:** Para operaciones numéricas.
-* **matplotlib:** Base para la visualización.
-* **seaborn:** Para visualizaciones estadísticas avanzadas (gráficos de barras agrupadas y correlación).
+ **Python 3.x**
+ **pandas:** Para manipulación y limpieza de datos.
+ **numpy:** Para operaciones numéricas.
+ **matplotlib:** Base para la visualización.
+ **seaborn:** Para visualizaciones estadísticas avanzadas (gráficos de barras agrupadas y correlación).
 
 ## 🧑‍💻 Créditos
 
-* **Autor:** David Barrero V.
-* **Bootcamp:** IRONHACK - Análisis de Datos
+ **Autor:** David Barrero V.
+ **Bootcamp:** IRONHACK - Análisis de Datos
 
 ## 📜 Licencia
 
