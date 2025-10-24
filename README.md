@@ -22,9 +22,9 @@ El estudio concluye que el éxito es **estratégico y concentrado**, no geográf
 
 El repositorio se organiza de la siguiente manera:
 
-📁 Data - Archivos con los datos base del estudio
-📁 Notebooks - 01_Limpieza_y_Filtro.py - 02_Analisis_Estrategico.ipynb -> Código principal del análisis y visualizaciones.
-📁 Presentación - Presentación y Gráficos
+* 📁 Data - Archivos con los datos base del estudio
+* 📁 Notebooks - 01_Limpieza_y_Filtro.py - 02_Analisis_Estrategico.ipynb -> Código principal del análisis y visualizaciones.
+* 📁 Presentación - Presentación y Gráficos
 
 ### 5. Tecnologías y Librerías
 
